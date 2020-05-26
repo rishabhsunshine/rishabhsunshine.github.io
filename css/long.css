@@ -469,4 +469,15 @@ follow {
 	border-radius: 10%;
 	border: solid #FFFFFF 2px;
 }
+.center {
+	color: #ffffff;
+	text-align: center;
+	display: block;
+	background-color: rgba(0,0,0,0.25);
+	width: 100%;
+	float:left;
+	padding: 0 2.5% 2.5%;
+	border-radius: 10%;
+	border: solid #FFFFFF 2px;
+}
 
